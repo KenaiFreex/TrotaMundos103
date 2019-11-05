@@ -1,0 +1,19 @@
+{
+  "name": "trotamundos103",
+  "version": "0.0.1",
+  "description": "Cultural Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenaiFreex/TrotaMundos103.git"
+  },
+  "author": "Erick Torres",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KenaiFreex/TrotaMundos103/issues"
+  },
+  "homepage": "https://github.com/KenaiFreex/TrotaMundos103#readme"
+}
